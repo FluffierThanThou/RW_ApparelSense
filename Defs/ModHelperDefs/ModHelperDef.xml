@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ModHelperDef>
+
+        <defName>ApparelSense</defName> 
+        <ModName>ApparelSense</ModName> 
+        <version>0.12.5</version>
+        <PostLoadInjectors>            
+            <li>Fluffy.ApparelSense</li>
+        </PostLoadInjectors>
+    </ModHelperDef>
+</Defs>
