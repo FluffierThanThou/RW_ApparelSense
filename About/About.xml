@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>Area Unlocker</name>
+
+    <author>Fluffy</author>
+
+    <url>https://ludeon.com/forums/index.php?topic=16120.0</url>
+
+    <targetVersion>RimWorld Alpha 12d</targetVersion>
+
+    <description>Re-arranges thingCategories for apparel to a category per covered bodypart to give a neater overview in stockpiles.</description>
+
+</ModMetaData>
